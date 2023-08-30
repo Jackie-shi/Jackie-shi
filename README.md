@@ -28,4 +28,6 @@ Excited to communicate with **Y'ALL**!!😜
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackie-shi&layout=compact)](https://github.com/Jackie-shi/github-readme-stats)
 
-**If you like this readme file, please give me star! ❤️**
+**If you like this readme file, please give me a star!! ❤️**
+
+**GOLD⚜️**
