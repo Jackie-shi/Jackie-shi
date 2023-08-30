@@ -9,9 +9,9 @@ Excited to communicate with **Y'ALL**!!😜
 
 - 🏫 I am currently a graduate student of **THUSZ**.
 - 💻 Major is **Computer Technology**.
-- :purple_heart: My study & research interest are Machine Learning, Deep Learning, Computer Network & Security and Data Science.
+- :purple_heart: My study & research interest are **Machine Learning**, **Deep Learning**, **Computer Network&Security** and **Data Science**.
 - 🌱 I'm currently learning **BGP Anomaly Detection and NLP**.
-- :briefcase:	I used to work in **Intel Shanghai** as an DL dev intern.
+- :briefcase:	I used to work in **Intel Shanghai AIA** as an DL dev intern.
 - 💬 If you have any questions, **just ask me**: **1272685932sjy@gmail.com**.
 
   
