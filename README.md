@@ -12,7 +12,9 @@ Excited to communicate with **Y'ALL**!!😜
 - :purple_heart: My study & research interest are **Machine Learning**, **Deep Learning**, **Computer Network&Security** and **Data Science**.
 - 🌱 I'm currently learning **BGP Anomaly Detection and NLP**.
 - :briefcase:	I used to work in **Intel Shanghai AIA** as an DL dev intern.
-- 💬 If you have any questions, **just ask me**: **1272685932sjy@gmail.com**.
+- 💬 If you have any questions, **just contact me on any of the following email addresses**:
+  - **1272685932sjy@gmail.com**
+  - **sjy23@mails.tsinghua.edu.cn**
 
   
 
