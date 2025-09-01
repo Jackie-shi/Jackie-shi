@@ -10,7 +10,7 @@ Excited to communicate with **Y'ALL**!!😜
 - 🏫 I am currently a graduate student of **THUSZ**.
 - 💻 Major is **Computer Technology**.
 - :purple_heart: My study & research interest are **LLM Agent**, **Deep Learning**, **Computer Network&Security** and **Data Science**.
-- 🌱 I'm currently learning **BGP RPKI Efficiency, LLM Agent Planning and MAS**.
+- 🌱 I'm currently learning **RPKI Efficiency, LLM Agent Planning and MAS**.
 - :briefcase:	I used to work in **Intel Shanghai AIA** as an DL dev intern.
 - 💬 If you have any questions, **just contact me on any of the following email addresses**:
   - **1272685932sjy@gmail.com**
