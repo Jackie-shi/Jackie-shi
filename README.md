@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jackie Shi.
 
-I'm a programming LOVER:laughing:!! I realize the importance to maintain my own code repos, so from now on I gonna take full advantage of Github to upload my personal project code.
+I'm a programming LOVER!! I realize the importance to maintain my own code repos, so from now on I gonna take full advantage of Github to upload my personal project code.
 
 Excited to communicate with **Y'ALL**!!😜
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
