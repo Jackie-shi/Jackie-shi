@@ -7,14 +7,17 @@ Excited to communicate with **Y'ALL**!!😜
 
 **Talking about Personal Stuffs:**
 
-- 🏫 I am currently a graduate student of **THUSZ**.
-- 💻 Major is **Computer Technology**.
+- 💰 I'm currently working in WILL of WizardQuant as LLM Agent Engineer, Shanghai China
+- 🏫 I've graduated from **THU** majoring in **Computer Technology**.
 - :purple_heart: My study & research interest are **LLM Agent**, **Deep Learning**, **Computer Network&Security** and **Data Science**.
 - 🌱 I'm currently learning **RPKI Efficiency, LLM Agent Planning and MAS**.
 - :briefcase:	I used to work in **Intel Shanghai AIA** as an DL dev intern.
-- 💬 If you have any questions, **just contact me on any of the following email addresses**:
-  - **1272685932sjy@gmail.com**
-  - **sjy23@mails.tsinghua.edu.cn**
+- Con in Linkedin: https://www.linkedin.com/in/jiayi-shi-a9b433291/
+- Contact:
+  - **Email**: **1272685932sjy@gmail.com**
+  - **LinkedIn**: [jiayi-shi](https://www.linkedin.com/in/jiayi-shi-a9b433291/)
+- Social Media:
+  - **X**: [@JackieShi14](https://x.com/JackieShi14)
 
   
 
