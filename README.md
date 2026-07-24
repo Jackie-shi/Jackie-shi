@@ -7,7 +7,7 @@ Excited to communicate with **Y'ALL**!!😜
 
 **Talking about Personal Stuffs:**
 
-- 💰 I'm currently working in WILL of WizardQuant as LLM Agent Engineer, Shanghai China
+- 💰 I'm currently working in **WILL of WizardQuant** as LLM Agent Engineer, Shanghai China
 - 🏫 I've graduated from **THU** majoring in **Computer Technology**.
 - :purple_heart: My study & research interest are **LLM Agent**, **Deep Learning**, **Computer Network&Security** and **Data Science**.
 - 🌱 I'm currently learning **RPKI Efficiency, LLM Agent Planning and MAS**.
